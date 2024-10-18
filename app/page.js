@@ -22,10 +22,10 @@ export default function Home() {
           src={blog}
           alt="blog"
           // fill
-          // sizes="100vw"
+          sizes="100vw"
           // width={500}
           // height={500}
-          className=" mt-64"
+          className=" mt-56"
         />
       </div>
     </div>
